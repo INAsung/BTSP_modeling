@@ -2,7 +2,7 @@
 # Neural modeling of behavioral timescale plasticity (BTSP)
 ### C++ codes for modeling of CA3 place cells and their corresponding formation of CA1 place cell based on BTSP.
 
-
+---
 #### What is BTSP?
 *-* Recent form of **synaptic plasticity** observed during the **formation of CA1 place cell.**
 *-* It is different from other types of synaptic plasticity such as Hebbian synaptic plasticity, because it requires **only single induction** to change input signals' weights.
@@ -14,12 +14,12 @@
 *-* When the **ET signal and plateau potential **overlap****, the synaptic **inputs active during this time are selectively potentiated**, enhancing their synaptic weights.
 
 *-* Through this process, a CA1 neuron becomes a place cell, developing place fields aligned with the spatial input patterns from upstream CA3 place cells!
-
+---
 #### Example result
 ![image](https://github.com/user-attachments/assets/e69c1ec8-3866-4709-a535-3ef13e4e8745)
 Above image shows two dendritic plateau potential results in two distinct place fields.
 
-
+---
 #### References
 1. Bittner, Katie C., et al. "Behavioral time scale synaptic plasticity underlies CA1 place fields." Science 357.6355 (2017): 1033-1036.
 2. Milstein, Aaron D., et al. "Bidirectional synaptic plasticity rapidly modifies hippocampal representations." Elife 10 (2021): e73046.
